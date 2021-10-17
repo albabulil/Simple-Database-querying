@@ -1,4 +1,4 @@
-# Simple-Database-querying\
+# Simple-Database-querying
 ```sh
 select
     u.id,
